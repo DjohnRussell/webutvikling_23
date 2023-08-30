@@ -1,2 +1,2 @@
 # webutvikling_23
-webDevCoured2023
+webDevCourse2023
