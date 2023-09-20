@@ -3,4 +3,5 @@
 -------------webDevCourse2023--------------------
 -------------------------------------------------
 
-This is a repo for webdev, not mush more too say 
+This is a repo for webdev, not much
+more too say 
